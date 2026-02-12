@@ -166,8 +166,8 @@
             // // require 'vendor/autoload.php';
 
             // define('SMTP_HOST','smtp.gmail.com');
-            // define('SMTP_USER','mr.sachin4318@gmail.com');
-            // define('SMTP_PASS','hdxy ixds cgel lphj');
+            // define('SMTP_USER','mr.s********8@gmail.com');
+            // define('SMTP_PASS','hdxy ixds cgel k+1n+1g+1i+1');
             // define('SMTP_PORT', 587);
             
             // if(isset($_SESSION['user_id'])){
@@ -295,4 +295,5 @@
     // };
         
     </script>
+
 </html>
